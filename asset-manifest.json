@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.19393e92.chunk.css",
-    "main.js": "/static/js/main.bc5ba69e.chunk.js",
-    "main.js.map": "/static/js/main.bc5ba69e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.52f9154079dc61e2df3b2bbe03cf97d3.js": "/precache-manifest.52f9154079dc61e2df3b2bbe03cf97d3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.19393e92.chunk.css.map": "/static/css/main.19393e92.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/aemreaydin/CompleteReactBasics/static/css/main.c6eea472.chunk.css",
+    "main.js": "/aemreaydin/CompleteReactBasics/static/js/main.ddcdd185.chunk.js",
+    "main.js.map": "/aemreaydin/CompleteReactBasics/static/js/main.ddcdd185.chunk.js.map",
+    "runtime~main.js": "/aemreaydin/CompleteReactBasics/static/js/runtime~main.1dc49117.js",
+    "runtime~main.js.map": "/aemreaydin/CompleteReactBasics/static/js/runtime~main.1dc49117.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/aemreaydin/CompleteReactBasics/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/aemreaydin/CompleteReactBasics/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/aemreaydin/CompleteReactBasics/index.html",
+    "precache-manifest.606c41a4ee80c8653f63bf23c69d04b4.js": "/aemreaydin/CompleteReactBasics/precache-manifest.606c41a4ee80c8653f63bf23c69d04b4.js",
+    "service-worker.js": "/aemreaydin/CompleteReactBasics/service-worker.js",
+    "static/css/main.c6eea472.chunk.css.map": "/aemreaydin/CompleteReactBasics/static/css/main.c6eea472.chunk.css.map"
   }
 }
