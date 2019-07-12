@@ -35,6 +35,7 @@ class App extends Component<AppProps, AppState> {
     const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchText.toLowerCase()));
     return (
       <div className="App">
+        <h1 className="App-title">Monster Index</h1>
         <SearchBar onChange={this.onChange}/>
         <CardList monsters={filteredMonsters}/>
       </div>
