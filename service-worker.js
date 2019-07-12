@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aemreaydin/CompleteReactBasics/precache-manifest.606c41a4ee80c8653f63bf23c69d04b4.js"
+  "/aemreaydin/CompleteReactBasics/precache-manifest.e7630cb68d5b39b6519337b9ecc6662a.js"
 );
 
 self.addEventListener('message', (event) => {
